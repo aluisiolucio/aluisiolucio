@@ -7,7 +7,9 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">  
+<p align="left"> 
+  <a href="https://github.com/aluisiolucio">
+
   <img width="530em" src="https://github-readme-stats.vercel.app/api?username=aluisiolucio&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aluisiolucio&layout=compact&langs_count=8&theme=codeSTACKr"/>
 </p>
