@@ -3,8 +3,6 @@
 - 🔥 I’m currently working as a junior backend developer
 - 📚 Studying Python and venturing a little into the frontend universe with Js, HTML, CSS and React
 
-<br><br>
-
 ## 🛠 &nbsp;Tech Stack  
   
 <div style="display: inline_block"><br>
