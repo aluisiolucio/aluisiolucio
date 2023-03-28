@@ -2,8 +2,9 @@
 
 - 🔥 I’m currently working as a junior backend developer
 - 📚 Studying Python and venturing a little into the frontend universe with Js, HTML, CSS and React
+<br>
 
-## 🛠 &nbsp;Tech Stack  
+## 🛠 &nbsp;Tech Stack
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
