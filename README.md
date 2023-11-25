@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Aluisio
 
-- 🔥 I’m currently working as a junior backend developer
-- 📚 Studying Python and venturing a little into the frontend universe with Js, HTML, CSS and React
+- 🔥 I’m currently working as a backend developer
+- 📚 Programming in Python on the backend and studying frontend in my spare time
 <br>
 
 ## 🛠 &nbsp;Tech Stack
