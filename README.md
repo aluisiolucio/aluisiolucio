@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Aluisio
+### Hi there 👋, I'm Aluisio Lucio
 
 - 🔥 I’m currently working as a backend developer
 - 📚 Programming in Python on the backend and studying frontend in my spare time
