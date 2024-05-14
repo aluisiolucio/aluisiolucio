@@ -1,3 +1,5 @@
+![banner](profile-banner.png)
+
 ### Hi there 👋, I'm Aluisio Lucio
 
 - 🔥 I’m currently working as a backend developer
