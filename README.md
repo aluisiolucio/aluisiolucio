@@ -7,7 +7,7 @@
 - Busco por desafios estimulantes e oportunidades de aprendizado;
 - Apaixonado por transformar ideias em realidade através da programação.
 
-### Tech Stack
+<!-- ### Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -24,7 +24,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-<br/>
+-->
+<br/> 
 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aluisiolucio&layout=compact&theme=tokyonight&hide_border=true)
