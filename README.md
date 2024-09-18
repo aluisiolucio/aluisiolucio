@@ -1,6 +1,6 @@
 # Olá 👋
 
-Sou o Aluisio, desenvolvedor full stack e trabalho com tecnologia desde 2019.
+Sou o Aluisio, desenvolvedor full stack e trabalho com tecnologia desde 2018.
 
 ## Sobre mim 😁
 
