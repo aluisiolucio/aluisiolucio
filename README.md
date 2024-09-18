@@ -2,14 +2,14 @@
 
 Sou o Aluisio, desenvolvedor full stack e trabalho com tecnologia desde 2019.
 
-### Sobre mim 😁
+## Sobre mim 😁
 
 - Mais de 5 anos de experiência no desenvolvimento de software;
 - Formado em Ciência da computação;
 - Busco por desafios estimulantes e oportunidades de aprendizado;
 - Apaixonado por transformar ideias em realidade através da programação.
 
-### 💻 Tecnologias
+## 💻 Tecnologias
 
 Estas são algumas das tecnologias e ferramentas com as quais trabalho:
 
