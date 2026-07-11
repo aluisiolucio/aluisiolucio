@@ -42,8 +42,3 @@ Engenheiro de software, desenvolvedor fullstack, atuando com tecnologia desde 20
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=aluisiolucio&theme=radical&hide_border=true" height="165" alt="streak stats" />
 </p>
-
-## 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aluisiolucio)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aluisio18lucio@gmail.com)
