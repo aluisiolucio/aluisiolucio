@@ -1,17 +1,17 @@
-<img align="right" width="300" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" alt="Animação">
 
 # Olá, eu sou o Aluisio 👋
+<img align="right" width="280" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ff1b5f32-9420-4dde-b2b9-ed2c0aa17459" alt="Animação">
 
 Engenheiro de software, desenvolvedor fullstack, atuando com tecnologia desde 2018.
 
-## 🧠 Sobre mim
+### 🧠 Sobre mim
 
 - 🎓 Bacharel em Ciência da Computação pela PUC Goiás
 - 💼 Mais de 6 anos de experiência em desenvolvimento de software
 - 🤖 Foco atual em Engenharia de IA, na construção de agentes de IA e sistemas multiagentes
 - 🌱 Apaixonado por transformar ideias em realidade através da programação.
 
-## 💻 Tecnologias
+### 💻 Tecnologias
 
 #### IA & Agentes:
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -39,7 +39,7 @@ Engenheiro de software, desenvolvedor fullstack, atuando com tecnologia desde 20
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=aluisiolucio&theme=radical&hide_border=true" height="165" alt="streak stats" />
